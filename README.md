@@ -1,6 +1,6 @@
 # Exam SIB course: 
 ## Diving into deep learning - theory and applications with PyTorch 
-### Martin Schwill, martin.schwill@uzh.ch
+### Martin Schwill, PhD
 ### date: 2024-Nov-08
 
 ## Summary
